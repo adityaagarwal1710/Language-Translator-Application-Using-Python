@@ -1,5 +1,5 @@
 # Language-Translator-Application-Using-Python
-This Uses the googletrans python library to trranslate the input language into the destination language.
+This Uses the googletrans python library to translate the input language into the destination language.
 
 To instal the google translator use:
 pip install googletrans==3.1.0a0
